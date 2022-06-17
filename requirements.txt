@@ -1,4 +1,4 @@
-Scrapy==1.6.0
+Scrapy==2.6.1
 setuptools==40.8.0
 w3lib==1.20.0
 orator==0.9.8
